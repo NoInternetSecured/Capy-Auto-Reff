@@ -1,5 +1,7 @@
 # Capy-Auto-Reff
 
+[capy](https://www.capyhl.fun/?ref=0x87bF606A307DaB139196b25Cd76e557c544b1349)
+
 clone repo
 ```
 git clone https://github.com/NoInternetSecured/Capy-Auto-Reff.git
